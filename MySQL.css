@@ -1,0 +1,137 @@
+#mainContainer {
+    width: 1000px;
+    height: 400px;
+    background-color: white;
+}
+
+#container1 {
+    margin-left: 40px;
+    background-color: ghostwhite;
+    height: 140px;
+    width: 450px;
+}
+
+#img1 {
+    margin-left: 100px;
+    height: 140px;
+}
+
+#mysql {
+    width: 450px;
+    height: 50px;
+    background-color: rgb(243, 133, 29);
+    margin-left: 40px;
+}
+
+#usecase {
+    width: 30px;
+    height: 30px;
+    color: white;
+    margin-left: 160px;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#container2 {
+    margin-left: 40px;
+    background-color: ghostwhite;
+    height: 90px;
+    width: 450px;
+}
+
+#content1 {
+    margin-left: 120px;
+}
+
+#content2 {
+    margin-left: 140px;
+}
+
+#container3 {
+    width: 450px;
+    height: 50px;
+    background-color: rgb(243, 133, 29);
+    margin-left: 40px;
+}
+
+#datastructure {
+    width: 30px;
+    height: 30px;
+    color: white;
+    margin-left: 160px;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#container4 {
+    margin-left: 40px;
+    background-color: ghostwhite;
+    height: 60px;
+    width: 450px;
+}
+
+#content3 {
+    margin-left: 170px;
+}
+
+#container5 {
+    width: 450px;
+    height: 50px;
+    background-color: rgb(243, 133, 29);
+    margin-left: 40px;
+}
+
+#risk {
+    width: 30px;
+    height: 30px;
+    color: white;
+    margin-left: 160px;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#container6 {
+    margin-left: 40px;
+    background-color: ghostwhite;
+    height: 60px;
+    width: 450px;
+}
+
+#content4 {
+    margin-left: 120px;
+}
+
+#container7 {
+    width: 450px;
+    height: 50px;
+    background-color: rgb(243, 133, 29);
+    margin-left: 40px;
+}
+
+#analysis {
+    width: 30px;
+    height: 30px;
+    color: white;
+    margin-left: 160px;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#container8 {
+    margin-left: 40px;
+    background-color: ghostwhite;
+    height: 90px;
+    width: 450px;
+}
+
+#content5 {
+    margin-left: 120px;
+}
+
+#content6 {
+    margin-left: 100px;
+}
+
+#content7 {
+    margin-left: 130px;
+}
